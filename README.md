@@ -8,30 +8,9 @@
 A sophisticated computer vision application that combines real-time object detection using YOLOv8 and depth estimation using MiDaS. This web-based system provides an intuitive interface for processing both live video streams and uploaded media.
 
 ## 📸 Screenshots
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/4311030e-b598-4776-af64-4790dde4cafd" />
 
-![Application Interface](https://github.com/ShahdMohamed10/Object-detection-and-depth-estimation/raw/master/screenshots/app_interface.png)
 
-*The application interface showing object detection results with bounding boxes and confidence scores.*
-
-<details>
-  <summary>More screenshots</summary>
-  
-  ### Main Interface
-  <!-- Add your screenshot here -->
-  <!-- ![Main Interface](screenshots/main_interface.png) -->
-  
-  ### Object Detection Results
-  <!-- Add your screenshot here -->
-  <!-- ![Object Detection](screenshots/object_detection.png) -->
-  
-  ### Depth Estimation Results
-  <!-- Add your screenshot here -->
-  <!-- ![Depth Estimation](screenshots/depth_estimation.png) -->
-  
-  ### Combined View
-  <!-- Add your screenshot here -->
-  <!-- ![Combined View](screenshots/combined_view.png) -->
-</details>
 
 ## 🌟 Features
 
