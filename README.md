@@ -9,8 +9,12 @@ A sophisticated computer vision application that combines real-time object detec
 
 ## 📸 Screenshots
 
+![Application Interface](https://github.com/ShahdMohamed10/Object-detection-and-depth-estimation/raw/master/screenshots/app_interface.png)
+
+*The application interface showing object detection results with bounding boxes and confidence scores.*
+
 <details>
-  <summary>Click to view application screenshots</summary>
+  <summary>More screenshots</summary>
   
   ### Main Interface
   <!-- Add your screenshot here -->
