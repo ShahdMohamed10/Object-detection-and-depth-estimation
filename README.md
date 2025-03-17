@@ -7,7 +7,27 @@
 
 A sophisticated computer vision application that combines real-time object detection using YOLOv8 and depth estimation using MiDaS. This web-based system provides an intuitive interface for processing both live video streams and uploaded media.
 
-![Project Demo](https://via.placeholder.com/800x400?text=Object+Detection+and+Depth+Estimation+Demo)
+## 📸 Screenshots
+
+<details>
+  <summary>Click to view application screenshots</summary>
+  
+  ### Main Interface
+  <!-- Add your screenshot here -->
+  <!-- ![Main Interface](screenshots/main_interface.png) -->
+  
+  ### Object Detection Results
+  <!-- Add your screenshot here -->
+  <!-- ![Object Detection](screenshots/object_detection.png) -->
+  
+  ### Depth Estimation Results
+  <!-- Add your screenshot here -->
+  <!-- ![Depth Estimation](screenshots/depth_estimation.png) -->
+  
+  ### Combined View
+  <!-- Add your screenshot here -->
+  <!-- ![Combined View](screenshots/combined_view.png) -->
+</details>
 
 ## 🌟 Features
 
@@ -90,27 +110,21 @@ You can customize the application behavior by modifying `config.py`:
 object-detection-and-depth-estimation/
 ├── app/                    # Flask application
 │   ├── __init__.py         # App initialization
-│   ├── routes.py           # API endpoints
-│   ├── models/             # ML model wrappers
+│   ├── routes.py           # API endpoints and route handlers
+│   ├── camera.py           # Camera handling and processing
 │   ├── static/             # Static assets
+│   │   └── uploads/        # Uploaded media storage
 │   └── templates/          # HTML templates
+│       └── index.html      # Main application interface
 ├── venv/                   # Virtual environment
+├── __pycache__/            # Python cache files
 ├── yolov8s.pt              # Pre-trained YOLOv8 model
 ├── config.py               # Application configuration
 ├── requirements.txt        # Dependencies
 ├── run.py                  # Application entry point
+├── .gitignore              # Git ignore file
 └── README.md               # Project documentation
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📄 License
 
