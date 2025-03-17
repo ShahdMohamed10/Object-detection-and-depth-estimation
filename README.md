@@ -7,7 +7,7 @@
 
 A sophisticated computer vision application that combines real-time object detection using YOLOv8 and depth estimation using MiDaS. This web-based system provides an intuitive interface for processing both live video streams and uploaded media.
 
-## 📸 Screenshots
+## 📸 Screenshot
 <img width="935" alt="image" src="https://github.com/user-attachments/assets/4311030e-b598-4776-af64-4790dde4cafd" />
 
 
